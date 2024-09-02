@@ -1,7 +1,12 @@
-- slv, sou o  @crepmuka
--  tenho 15 anos de idade
--  adoro jogar futebol
--  gosto muito de veiculos automobilisticos
-  -sou corinthiano
-- meus amigos me chamam de amarelinho
-[](https://tenor.com/pt-BR/view/corinthians-rodrigo-garro-gif-)
+
+**### Boas vindas ao meu perfil :blue_heart
+**Meu nome é Samuel Xavier
+
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+### Você pode entrar em contato comigo :mailbox
+
+samuel.roman.xavier@escola.pr.gov.br
+
+![](https://media.tenor.com/MCBkr6dWLkUAAAAM/corinthians-rodrigo-garro.gif)
