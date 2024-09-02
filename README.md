@@ -5,4 +5,4 @@
 - 📫sou corinthiano
 - 😄 meus amigos me chamam de amarelinho
 - ⚡sou membro da dpp na bvs
-![](https://tenor.com/pt-BR/view/corinthians-rodrigo-garro-gif-3467882418664779333)
+![](https://tenor.com/pt-BR/view/corinthians-rodrigo-garro-gif-)
